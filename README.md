@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 Hi, I'm Sai Ganesh<br>Final-year B.Tech CS student at SRGEC, Andhra Pradesh, building a career in Python backend development.<br>What I work on:<br><br>🐍 Backend APIs with Flask, SQLAlchemy, JWT auth, and RBAC<br>☁️ Cloud deployments on Render with MySQL (Aiven Cloud)<br>🌍 Open source contributor to vacanza/python-holidays (20M+ monthly downloads) — merged PRs for Bengali & Hindi localization<br>🔧 Exploring Redis, Celery, and async task queues<br><br>Currently:<br><br>📦 Building production-style backend projects (URL Shortener → Task Queue)<br>📚 Grinding DSA for SDE-1 interviews<br>🚀 GSoC 2026 proposal submitted<br><br>Certifications: Google Cloud GenAI & Internshala Python (95%)
+I'm Sai Ganesh, a CS graduate from Andhra Pradesh building a career in Python backend development.
+
+Most of my time goes into building backend systems that actually work under real conditions — not just happy path demos. I care about things like what happens when an API returns garbage, how you handle partial failures gracefully, and whether your tests actually cover the cases that matter.
+
+Projects I've shipped: a RAG-based document QA API (FastAPI, Celery, Redis, Qdrant, PostgreSQL), an LLM log analysis pipeline deployed on AWS EC2 with Docker, a URL shortener with Redis caching and analytics, and a JWT auth API with RBAC. All deployed, all tested.
+
+I also contribute to open source — merged two PRs into vacanza/python-holidays (20M+ monthly PyPI downloads), adding Bengali and Hindi localization support.
+
+Currently grinding DSA and applying for entry level engineering roles.
 
 
 ## 🌐 Socials:
